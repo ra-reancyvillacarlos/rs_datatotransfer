@@ -65,3 +65,6 @@ D:\REANCY\rs_datatotransfer\GSMModem\obj\x86\Debug\GSMModem.SMS.resources
 D:\REANCY\rs_datatotransfer\GSMModem\obj\x86\Debug\DataTransfer.csproj.GenerateResource.Cache
 D:\REANCY\rs_datatotransfer\GSMModem\obj\x86\Debug\GSMModem.exe.manifest
 D:\REANCY\rs_datatotransfer\GSMModem\obj\x86\Debug\GSMModem.application
+D:\REANCY\rs_datatotranfser\DataToTransfer\GSMModem\bin\Debug\GSMModem.exe.config
+D:\REANCY\rs_datatotranfser\DataToTransfer\GSMModem\obj\x86\Debug\GSMModem.exe
+D:\REANCY\rs_datatotranfser\DataToTransfer\GSMModem\obj\x86\Debug\GSMModem.pdb

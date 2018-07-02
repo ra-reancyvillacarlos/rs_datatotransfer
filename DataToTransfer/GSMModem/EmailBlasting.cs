@@ -138,7 +138,7 @@ namespace GSMModem
                                     cond = EmailBlasting.Decrypt(dt.Rows[i]["cond"].ToString(), "sblw-3hn8-sqoy19");
                                     table = dt.Rows[i]["tablename"].ToString();
                                     pk = dt.Rows[i]["OID"].ToString();
-                                    if (db2.UpdateOnTable(table, cond,col ))
+                                    if (db2.UpdateOnTable(table, col, cond))
                                     {
                                         try
                                         {
